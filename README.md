@@ -80,3 +80,5 @@ use maven to create web project
 <p align="left">
 <img alt="structure" src="https://github.com/tianhang/Maven-The-Definitive-Guide/blob/master/assets/step4.png" width="50%">
 </p>
+
+last step is that add jetty plugin and deploy this project !
