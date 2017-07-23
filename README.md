@@ -12,11 +12,13 @@ generate project
     -DinteractiveMode=false 
 ```
 for example 
+
 ```
-    $ mvn archetype:generate -DgroupId=com.mkyong 
-    -DartifactId=NumberGenerator
-    -DarchetypeArtifactId=maven-archetype-quickstart 
-    -DinteractiveMode=false
+   $mvn archetype:generate 
+   -DgroupId=com.mycompany.app 
+   -DartifactId=my-app 
+   -DarchetypeArtifactId=maven-archetype-quickstart 
+   -DinteractiveMode=false
 ```
 
   
