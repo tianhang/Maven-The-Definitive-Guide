@@ -59,6 +59,7 @@ use maven to create web project
 <img alt="structure" src="https://github.com/tianhang/Maven-The-Definitive-Guide/blob/master/assets/step5.png" width="50%">
 </p>
 
+
 <strong>check the output folder</strong>
 <p align="left">
 <img alt="structure" src="https://github.com/tianhang/Maven-The-Definitive-Guide/blob/master/assets/check1.png" width="50%">
