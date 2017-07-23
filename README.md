@@ -75,3 +75,8 @@ use maven to create web project
 <p align="left">
 <img alt="structure" src="https://github.com/tianhang/Maven-The-Definitive-Guide/blob/master/assets/check3.png" width="50%">
 </p>
+
+<strong>maven update project</strong>
+<p align="left">
+<img alt="structure" src="https://github.com/tianhang/Maven-The-Definitive-Guide/blob/master/assets/step4.png" width="50%">
+</p>
