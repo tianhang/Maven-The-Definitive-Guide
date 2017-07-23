@@ -26,4 +26,8 @@ for example
    -DinteractiveMode=false
 ```
 
+## eclipse with maven
+
+use maven to create web project
+
   
