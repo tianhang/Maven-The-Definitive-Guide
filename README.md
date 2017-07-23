@@ -14,7 +14,7 @@ for example
 ```
     $ mvn archetype:generate -DgroupId=com.mkyong 
     -DartifactId=NumberGenerator
-	-DarchetypeArtifactId=maven-archetype-quickstart 
+    -DarchetypeArtifactId=maven-archetype-quickstart 
     -DinteractiveMode=false
 ```
 
