@@ -1,8 +1,8 @@
 # Maven-The-Definitive-Guide
 ## maven project structure
 
-<p align="center">
-<img alt="structure" src="https://github.com/tianhang/Maven-The-Definitive-Guide/blob/master/assets/proj_structure.png">
+<p align="left">
+<img alt="structure" src="https://github.com/tianhang/Maven-The-Definitive-Guide/blob/master/assets/proj_structure.png" width="50%">
 </p>
 
 ## maven command line
