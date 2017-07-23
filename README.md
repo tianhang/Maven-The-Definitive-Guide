@@ -5,9 +5,10 @@
 generate project
 
 ``` 
-    mvn archetype:generate -DgroupId={project-packaging}
-    -DartifactId={project-name}
-    -DarchetypeArtifactId=maven-archetype-quickstart
+    mvn archetype:generate 
+    -DgroupId={project-packaging}  组织名，公司网址的反写 + 项目名
+    -DartifactId={project-name} 项目名 + 模块名
+    -DarchetypeArtifactId=maven-archetype-quickstart
     -DinteractiveMode=false 
 ```
 for example 
