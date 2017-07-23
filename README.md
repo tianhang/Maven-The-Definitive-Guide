@@ -31,3 +31,19 @@ for example
 use maven to create web project
 
   
+<p align="left">
+<img alt="structure" src="https://github.com/tianhang/Maven-The-Definitive-Guide/blob/master/assets/step1.png" width="50%">
+</p>
+
+<p align="left">
+<img alt="structure" src="https://github.com/tianhang/Maven-The-Definitive-Guide/blob/master/assets/step2.png" width="50%">
+</p>
+
+initial project structure
+<p align="left">
+<img alt="structure" src="https://github.com/tianhang/Maven-The-Definitive-Guide/blob/master/assets/struct1.png" width="50%">
+</p>
+
+<p align="left">
+<img alt="structure" src="https://github.com/tianhang/Maven-The-Definitive-Guide/blob/master/assets/step3.png" width="50%">
+</p>
