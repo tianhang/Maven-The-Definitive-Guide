@@ -39,11 +39,17 @@ use maven to create web project
 <img alt="structure" src="https://github.com/tianhang/Maven-The-Definitive-Guide/blob/master/assets/step2.png" width="50%">
 </p>
 
-initial project structure
+<strong>initial project structure</strong>
 <p align="left">
 <img alt="structure" src="https://github.com/tianhang/Maven-The-Definitive-Guide/blob/master/assets/struct1.png" width="50%">
 </p>
 
+<strong>add missing folder manully, however you might meet error, "the source folder existed already !"</strong>
 <p align="left">
 <img alt="structure" src="https://github.com/tianhang/Maven-The-Definitive-Guide/blob/master/assets/step3.png" width="50%">
+</p>
+
+<strong>open build path -> configure build path</strong>
+<p align="left">
+<img alt="structure" src="https://github.com/tianhang/Maven-The-Definitive-Guide/blob/master/assets/error1.png" width="50%">
 </p>
