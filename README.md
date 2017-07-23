@@ -2,7 +2,7 @@
 ## maven project structure
 
 <p align="center">
-<img alt="structure" src="raw=true">
+<img alt="structure" src="https://github.com/tianhang/Maven-The-Definitive-Guide/blob/master/assets/proj_structure.png">
 </p>
 
 ## maven command line
